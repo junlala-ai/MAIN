@@ -1,9 +1,8 @@
 ---
-description: The First AI Smart Hardware on BNB
+description: Your AI Doctor on Your Wrist
 ---
 
 # AI Watch
 
-AI Watch is JUNLALA’s flagship AI hardware device and a key component of its AI+DePIN business model. As the first AI smart hardware device launched within the Ethereum ecosystem, AI Watch serves as both a Genesis computing power node and a crucial tool for users to participate in decentralized computing power mining.
-
-<figure><img src="../.gitbook/assets/1728987142467.jpg" alt=""><figcaption><p>JUNLALA AI Smart Watch</p></figcaption></figure>
+**AI Watch: Empowering DeSci Innovation**\
+JUNLALA’s AI Watch is a breakthrough in DeSci, enabling users to actively participate in decentralized scientific efforts. It offers secure, real-time data collection and analysis, playing a crucial role in decentralized science projects. With its durable design, additional token rewards, and meme coin airdrops, AI Watch redefines how AI and decentralized science work together.&#x20;
