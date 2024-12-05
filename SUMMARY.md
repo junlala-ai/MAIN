@@ -11,7 +11,6 @@
   * [Emotional training](junlala-mini-app/emotional-training.md)
   * [Aides](junlala-mini-app/aides.md)
   * [Airdrop](junlala-mini-app/airdrop.md)
-  * [Page](junlala-mini-app/page.md)
 * [AI Watch](ai-watch/README.md)
   * [Unique Advantages of AI Watch](ai-watch/unique-advantages-of-ai-watch.md)
   * [AI Watch NFT IDO](ai-watch/ai-watch-nft-ido.md)
