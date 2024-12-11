@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/img_v3_02h9_5548f028-de89-49d3-9fcf-93d6a1f0addh (1).png" alt=""><figcaption><p>$emo meme token</p></figcaption></figure>
 
-The **$emo** tokens are created to support this groundbreaking research, incentivize early adoption, and reward active participation in promoting emotional well-being. A portion of the tokens (20%) will be airdropped to JunLaLa AIWatch holders to foster the growth of a vibrant, engaged community. Furthermore, a percentage of the funds raised (5-10%) will be allocated to the broader JunLaLa BIO Ecosystem, enabling the project’s impact to extend across different areas of health and well-being.
+The **$emo** tokens are created to support this groundbreaking research, incentivize early adoption, and reward active participation in promoting emotional well-being. A portion of the tokens (20%) will be airdropped to JunLaLa AIWatch holders to foster the growth of a vibrant, engaged community. Further more, a portion (5-10%) of $emo tokens will be donated to BIO Ecosystem, to support the development of the DeSci world.
 
 * **Total Supply:** 1B
 
