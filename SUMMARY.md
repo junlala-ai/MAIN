@@ -15,5 +15,4 @@
   * [EXCLUSIVE REWARDS FOR AIWATCH HOLDERS](ai-watch/exclusive-rewards-for-aiwatch-holders.md)
   * [AI Watch NFT IDO](ai-watch/ai-watch-nft-ido.md)
 * [$JUN](usdjun.md)
-* [Roadmap](roadmap.md)
 * [Read more](read-more.md)
