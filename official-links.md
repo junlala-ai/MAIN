@@ -2,7 +2,7 @@
 description: Stick to our official links and you won’t miss a thing.
 ---
 
-# Official links
+# 🔗 Official links
 
 **Official website：**[https://junlala.network](https://junlala.network/)\
 **Twitter(X)：**[https://x.com/JunLaLaltd](https://x.com/JunLaLaltd)\
