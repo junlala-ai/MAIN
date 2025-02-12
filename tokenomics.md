@@ -1,23 +1,23 @@
 # 💰 Tokenomics
 
-### **Project Token Overview**
+**Project Token Overview**
 
 The **Project token** is the foundation of the **JunLaLa ecosystem**, designed to reward users and support the sustainable growth of the platform. Its economic structure aims to establish a balanced dynamic supply and demand, ensuring long-term value. Here are the key details:
 
-### **Token Distribution**
+**Token Distribution**
 
 * **80% for Fate AI Agents:** The majority of the Project token (80%) is allocated to the 80 Fate AI Agents. These agents manage the token's destiny and distribute rewards to users based on their divination activities.
 * **20% for Initial Market Supply:** The remaining 20% is made available for public trading on decentralized exchanges (DEX), ensuring liquidity and market access.
 
 ***
 
-### **Fair Launch**
+**Fair Launch**
 
 The Project token is launched in a **fair and transparent manner**, with **no pre-mined tokens**, **no team reserves**, and **no hidden funds**. This ensures that all users have equal access to tokens, and the market determines the price.
 
 ***
 
-### **Dynamic Supply and Demand**
+**Dynamic Supply and Demand**
 
 The Project token operates on a dynamic **supply and demand model**:
 
@@ -26,14 +26,14 @@ The Project token operates on a dynamic **supply and demand model**:
 
 ***
 
-### **Reward Mechanism**
+**Reward Mechanism**
 
 * **Stage 1:** Every time a user performs divination, half of the fee is used to purchase tokens from the DEX at market prices, which are then distributed as rewards.
 * **Stage 2:** The Dutch auction process generates additional demand. Tokens are purchased at auction-determined prices, often lower than the DEX market price, providing users with more tokens for the same cost.
 
 ***
 
-### **Price Stability**
+**Price Stability**
 
 The **reward mechanisms** combined with **consistent buybacks from the DEX** create a **self-sustaining ecosystem**, where demand for Project token continually drives its value upward.
 

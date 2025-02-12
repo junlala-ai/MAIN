@@ -2,7 +2,7 @@
 
 The Multi-AI Agents system is the core of the JunLaLa project, combining state-of-the-art AI technology with divination prediction to offer users a unique and powerful tool for understanding the future trends of tokens in the crypto market.
 
-### The **system consists of two main components:**
+**The system consists of two main components:**
 
 The collaboration between the JunLaLa AI Agent and the 80 Fate AI Agents allows JunLaLa to provide users with a comprehensive, multifaceted view of token movements, ensuring that each divination is based on a broad range of insights.\
 Through the Multi-AI Agents system, JunLaLa offers an innovative and accurate approach to crypto market predictions, allowing users to make more informed decisions while being rewarded for their participation.

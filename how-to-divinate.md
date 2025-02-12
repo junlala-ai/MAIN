@@ -6,9 +6,9 @@ description: >-
 
 # 🔮 How to Divinate
 
-### U**ser Divination Process**
+U**ser Divination Process**
 
-#### 🔹1.  **Select a Token**
+🔹1.  **Select a Token**
 
 Go to the platform’s dApp page and enter the contract address of the token you want insights on.
 
