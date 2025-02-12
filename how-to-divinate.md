@@ -1,9 +1,3 @@
----
-description: >-
-  $JUN is an internal system point that can be earned through various activities
-  within our platform.
----
-
 # 🔮 How to Divinate
 
 U**ser Divination Process**
