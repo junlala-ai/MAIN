@@ -1,6 +1,6 @@
 # 🔮 How to Divinate
 
-U**ser Divination Process**
+**User Divination Process**
 
 🔹1.  **Select a Token**
 
@@ -18,10 +18,10 @@ Select one of six payment tiers for your divination session:
 Pick the amount that best suits your needs and proceed.
 
 🔹3.  **Complete the Payment**\
-Pay the divination fee to the **JunLaLa AI Agent’s wallet** to confirm your request.
+Pay the divination fee to confirm your request.
 
 🔹4.  **Receive Your Prediction**\
-Once the payment is processed, the **JunLaLa AI Agent** and **80 Fate AI Agents** will generate a divination prediction for your token’s future trend.
+Once the payment is processed, the JunLaLa AI Agent and Multi Fate AI Agents will generate a divination prediction for your token’s future trend.
 
 🔹5.  **Claim Your Rewards**\
-After the session, claim your **Project Token rewards**, determined by the amount you paid. 🚀
+After the session, claim your Project Token rewards, determined by the amount of divination fee you paid. 🚀
