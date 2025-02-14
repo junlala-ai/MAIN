@@ -4,7 +4,7 @@ description: Multi-AI Agent Prediction System
 
 # 💎 JUNLALA Features
 
-🔮 **Multi-AI Agents predict the future trends of tokens** launched on pump.fun: 1 JunLaLa AI Agent (the main AI Agent), along with Multi Fate AI Agents.
+🔮 **Multi-AI Agents predict the future trends of tokens** launched on pump.fun, offer insights into the market.&#x20;
 
 
 
